@@ -45,11 +45,12 @@ try{                 //try-catch处理异常
 		System.out.println("请输入姓名");
 		dr.name = scanner.next();		//从键盘输入获取姓名
 		System.out.println("请输入年龄");
-		dr.age = scanner.nextInt();	//从键盘输入获取年龄
+		dr.age = scanner.nextInt();	        //从键盘输入获取年龄
 		System.out.println("请输入性别");
 		dr.sex = scanner.next();		//从键盘输入获取性别
 ```
-
+## 四、 实验结果
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/fTW3oLibWre2icgHmMng0BEl2Oia3O6E8xxmjAlNpvV2V62FtqKEJ18aFtRrtO2O5Ay46Y1iau2DIicM/0)
 
 
 
