@@ -51,7 +51,8 @@ try{                 //try-catch处理异常
 ```
 ## 四、 实验结果
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/fTW3oLibWre2icgHmMng0BEl2Oia3O6E8xxmjAlNpvV2V62FtqKEJ18aFtRrtO2O5Ay46Y1iau2DIicM/0)
-
+## 五、 实验感想
+此次实验我掌握了掌握抽象类和抽象方法的定义以及对接口的定义，并能熟练掌握接口的定义形式以及接口的实现方法，同时也掌握了try-catch处理异常的使用方法。
 
 
 
